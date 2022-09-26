@@ -8,3 +8,7 @@ Our presentations in Meetups &amp; Conferences
 ## Data Science
 ### 2022
 - [Breizhcamp 2022 - Les dessous de l'IA Responsable](https://github.com/hymaia/presentations/blob/main/Les%20Dessous%20de%20l'IA%20Responsable.pdf)
+
+## Data Mesh
+### 2022
+- [Event Data Mesh Hymaïa - Data Mesh : Tour d'horizon](https://github.com/hymaia/presentations/blob/main/Data%20Mesh%20-%20Tour%20d'horizon.pdf) 
