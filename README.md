@@ -12,3 +12,7 @@ Our presentations in Meetups &amp; Conferences
 ## Data Mesh
 ### 2022
 - [Event Data Mesh Hymaïa - Data Mesh : Tour d'horizon](https://github.com/hymaia/presentations/blob/main/Data%20Mesh%20-%20Tour%20d'horizon.pdf) 
+
+## Data Culture
+### 2022
+- [Devoxx Belgium - 10 pitfalls holding you back bringing value from data at scale](https://github.com/hymaia/presentations/blob/main/10%20pitfalls%20holding%20you%20back%20bringing%20value%20from%20data%20at%20scale.pdf)
